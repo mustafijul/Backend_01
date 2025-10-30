@@ -28,16 +28,16 @@ console.log("Bismillah");
 
 // console.log(number);
 
-var arr = [1, 2, 3, 4]
+// var arr = [1, 2, 3, 4]
 
-var ans = arr.find((number) =>{
-    if(number === 4){
-        return number
-    }
+// var ans = arr.find((number) =>{
+//     if(number === 4){
+//         return number
+//     }
 
-})
+// })
 
-console.log(ans);
+// console.log(ans);
 
 
 
